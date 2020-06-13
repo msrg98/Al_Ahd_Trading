@@ -1,0 +1,296 @@
+body, h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif
+}
+
+.link_white {
+    color: white;
+}
+
+.link_white:hover {
+    color : white;
+}
+
+.loading {
+    z-index: 100;
+}
+
+.form-error {
+    color: #FF0000;
+}
+
+.error {
+    color: #FF0000;
+}
+
+body, html {
+    height: 100%;
+    line-height: 1.8;
+}
+
+header {
+    padding-top: 80px;
+}
+
+.my-rounded {
+    border-radius: 30px;
+}
+
+.navbar {
+    padding: 0;
+    height: 80px;
+    background: black;
+    position: absolute;
+    width: 100%;
+}
+
+li {
+    background: black;
+}
+
+
+.navbar-btn {
+    border: none;
+    height: 100%;
+    padding: 20px;
+    background: black;
+    color: #58D130;
+}
+
+.my-btn {
+    border: 2px solid black;
+    padding: 10px 50px;
+    background: #58D130;
+    color: white;
+    border-radius: 15px;
+}
+
+.navbar-btn:hover {
+    background: #58D130;
+    color: black;
+}
+
+.my-btn:hover {
+    border: 2px solid #58D130;
+    background: black;
+    color: #58D130;
+}
+
+@media (max-width: 768px) {
+    li button {
+        width: 100%;
+    }
+
+    .h6 {
+        font-size: 12px;
+    }
+
+    .h5 {
+        font-size: 16px;
+    }
+}
+
+/* Full height image header */
+.bgimg-1 {
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/background.jpg');
+    min-height: 100%;
+}
+
+.bgimg-2 {
+    background-position: center;
+    background-size: cover;
+    background-image: url('../img/profile.jpg');
+    height: 50%;
+
+}
+
+.bg-div {
+    height: 100%;
+
+
+    width: 100%;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #58D130;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: gray;
+}
+
+.scroll-panel {
+    height: 500px;
+    overflow: auto;
+    padding: 0px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.h-33 {
+    height: 33%;
+}
+
+.bg-dark-blue {
+    background: #050F68;
+}
+
+.bg-red {
+    background: #B5011B;
+}
+
+.bg-yellow {
+    background: #D1A36F;
+}
+
+.hidden {
+    display: none;
+}
+
+.bg-black {
+    background: #000000;
+}
+
+.text-green {
+    color: #58D130;
+}
+
+.h-list-button {
+    border: none;
+    padding: 20px;
+    background: #ffffff;
+    color: black;
+    border-radius: 30px;
+    width: 100%;
+    height: 69px;
+    font-weight: bold;
+}
+
+.text-black {
+    color: black;
+}
+
+.text-lg {
+    font-size: large;
+}
+
+.w-240-px {
+    width: 240px !important;
+}
+
+.h-80 {
+    height: 80%;
+}
+
+.h-20 {
+    height: 25%;
+}
+
+.h-150-px {
+    height: 150px;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+.w-1300-px {
+    width: 100%;
+}
+
+.scrolls {
+    overflow: auto;
+    white-space: nowrap;
+}
+
+.scrolls > div {
+    display: inline-block;
+}
+
+#carousel {
+    width: 100%;
+    height: 200px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+
+}
+
+#carousel .slide {
+    display: inline-block;
+}
+
+#pages .page_btn {
+    color: black;
+    background-color: #58D130;
+    padding: 5px 10px;
+}
+
+.h-250-px {
+    height: 250px;
+}
+
+.text-gray {
+    color: grey;
+}
+
+.h7 {
+    font-size: 10px;
+}
+
+.select-pointer {
+    cursor: pointer;
+}
+
+#map {
+    height : 500px;
+}
+
+.Browse-files {
+    position: relative;
+    bottom: 38px;
+    width: 84px;
+    letter-spacing: 0.3px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    pointer-events: none;
+    border: 2px solid black;
+    background: #58D130;
+}
+
+.Browse-files:hover {
+    background-color: #FFC261;
+}
+
+
+input[type="file"] {
+    padding-top: 5px;
+    padding-right: 0;
+
+}
+
+input[type="file"]::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+
+input[type="file"]::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+.result{}

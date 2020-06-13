@@ -1,0 +1,53 @@
+body {
+    background: #58D130;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-rounded {
+    border-radius: 50px;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.my-btn {
+    background: #58D130;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: 2px solid white;
+}
+
+.my-btn:hover {
+    background: white;
+    color: #58D130;
+    border: 2px solid #58D130;
+
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem #58D130;
+}
+
+.form-error {
+    color: red;
+}
+
+.bg-white {
+    background: white;
+}
+
+a {
+    color: #d3af37;
+}
+
+a:hover {
+    color: #d3af37;
+}
+
+.text-mygreen {
+    color: #58D130;
+}

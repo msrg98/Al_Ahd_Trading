@@ -1,0 +1,37 @@
+body {
+    background: #b320ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-rounded {
+    border-radius: 50px;
+}
+
+.shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.my-btn {
+    background: #b320ff;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 20px;
+    border: 2px solid white;
+}
+
+.my-btn:hover {
+    background: white;
+    color: #b320ff;
+    border: 2px solid #b320ff;
+
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgb(179, 32, 255);
+}
+
+.form-error {
+    color: red;
+}
