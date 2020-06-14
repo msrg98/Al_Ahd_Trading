@@ -3,8 +3,9 @@ This repository is for Al Ahd Trading inventory Android application and website\
 The Server is built using the php framework Laravel\
 The Website is built using HTML\
 The Application is built using AndroidXML and JAVA
-\
-\
+
+
+
 ## The Application
 The Android application is designed to edit and modify the database where all the records are stored.\
 \
@@ -15,7 +16,7 @@ You can also add a picture for the item which will be stored on the server.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/35742121/84598006-5e4e9580-ae70-11ea-9358-95b3e6e0dc01.png" width="200">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/35742121/84598010-60185900-ae70-11ea-81fe-d67822166ecd.png" width="200">\
+<img src="https://user-images.githubusercontent.com/35742121/84598010-60185900-ae70-11ea-81fe-d67822166ecd.png" width="200">
 \
 \
 The second tab is the ADD CATEGORY, which also is used to add item categories to the database. Also you can add an image for each category that is also uploaded to the server.\
@@ -39,11 +40,8 @@ As for deleting categories, it's a soft delete process where you only delete the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-images.githubusercontent.com/35742121/84598020-6575a380-ae70-11ea-8c90-b970208f147f.png" width="200">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/35742121/84598021-660e3a00-ae70-11ea-873c-a283b3aa03f6.png" width="200">\
-\
-\
-\
-\
+<img src="https://user-images.githubusercontent.com/35742121/84598021-660e3a00-ae70-11ea-873c-a283b3aa03f6.png" width="200">
+
 ## The Website
 The website is fully responsive and is designed only for viewing purposes. It contains a fully responsive side-bar than can contain navigation buttons and a logo.\
 The home page contains the categories where you can easily navigate to your desired item by clicking it's category, also each category has a number under its image that represents the number of different items that are related to it.\
