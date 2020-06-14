@@ -52,7 +52,7 @@ The home page contains the categories where you can easily navigate to your desi
 <img src="https://user-images.githubusercontent.com/35742121/84602053-610bb380-ae8d-11ea-9e6d-ace43fd111f1.PNG" width="200">\
 \
 \
-After clicking on a category, a list of the products related to that category will appear, where each of these products have a picture, a description of its specs and a number representing the stock currently available.
+After clicking on a category, a list of the products related to that category will appear, where each of these products have a picture, a description of its specs and a number representing the stock currently available.\
 \
 <img src="https://user-images.githubusercontent.com/35742121/84602055-6406a400-ae8d-11ea-8359-9af743c98bfb.PNG">\
 \
